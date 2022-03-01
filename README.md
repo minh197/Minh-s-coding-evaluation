@@ -23,5 +23,9 @@ Output CSV file:
 •             IsDuplicateGuid (Y or N)
 
 •             Is Val3 length greater than the average length of Val3 (Y or N)
+
+
+
 <img width="510" alt="Screen Shot 2022-02-28 at 8 28 12 PM" src="https://user-images.githubusercontent.com/61608148/156087473-7db4e99f-7f90-434d-9fed-52179411b1bb.png">
+
 <img width="262" alt="Screen Shot 2022-02-28 at 8 27 58 PM" src="https://user-images.githubusercontent.com/61608148/156087490-9afe7de5-6c4f-4fef-bc15-ac398e6bf4df.png">
